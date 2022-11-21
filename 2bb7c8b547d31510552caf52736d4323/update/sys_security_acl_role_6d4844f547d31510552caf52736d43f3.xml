@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jon.lind</sys_created_by>
+        <sys_created_on>2022-11-21 16:23:47</sys_created_on>
+        <sys_id>6d4844f547d31510552caf52736d43f3</sys_id>
+        <sys_name>x.snc.exclusive-list.*.canvas_user</sys_name>
+        <sys_package display_value="UIB Exclusive List" source="x_snc_uib_xor">2bb7c8b547d31510552caf52736d4323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Exclusive List">2bb7c8b547d31510552caf52736d4323</sys_scope>
+        <sys_security_acl display_value="x.snc.exclusive-list.*">d54844f547d31510552caf52736d43f0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6d4844f547d31510552caf52736d43f3</sys_update_name>
+        <sys_user_role display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Exclusive List</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>jon.lind</sys_created_by>
+        <sys_created_on>2022-11-21 16:23:46</sys_created_on>
+        <sys_id>414844f547d31510552caf52736d43ea</sys_id>
+        <sys_name>Exclusive List</sys_name>
+        <sys_package display_value="UIB Exclusive List" source="x_snc_uib_xor">2bb7c8b547d31510552caf52736d4323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UIB Exclusive List">2bb7c8b547d31510552caf52736d4323</sys_scope>
+        <sys_update_name>sys_ux_app_config_414844f547d31510552caf52736d43ea</sys_update_name>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=414844f547d31510552caf52736d43ea"/>
+</record_update>
